@@ -19,5 +19,8 @@ def old_add2_redirect(request,a,b):
         reverse('add2',args=(a,b))
     )
 
+def static(request):
+    return render(request,"static/index.html")
+
 def home(request):
-    return render(request,"home.html")
+    return render(request,"home.html", {'info': 'Welcome to ziqiangxuetang.com !'})

@@ -1,0 +1,219 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>index</title>
+<link href="css/index.css" rel="stylesheet" type="text/css" />
+<script src="jquery-1.12.1.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(function(){
+		var timer = null;
+		var myindex = 1;
+		var num = 0;
+        $('.solution ul li').mouseenter(function(){
+            $(this).children('div').stop().animate({'bottom':0},300);
+        }).mouseleave(function(){
+            $(this).children('div').stop().animate({'bottom':-152},300);
+        });
+        $('.details ul li button').mouseenter(function(){
+            $(this).children('b').stop().animate({'bottom':0},200);
+        }).mouseleave(function(){
+			$(this).children('b').stop().animate({'bottom':-37},200);	
+		});
+		$('.banner ol li').click(function(){
+			if(!$(this).hasClass('current2')){
+				myindex++;
+				$(this).addClass('current2').siblings().removeClass('current2');
+				var i = $(this).index();
+				$('.banner ul li').eq(i).css({'z-index':myindex}).hide().stop().fadeIn(700);
+				num = i;	
+			}	
+		});
+		timer = setInterval(function(){
+			myindex++;
+			num++;
+			if(num > 1){
+				num = 0;	
+			}
+			$('.banner ol li').eq(num).addClass('current2').siblings().removeClass('current2');
+			$('.banner ul li').eq(num).css({'z-index':myindex}).hide().stop().fadeIn(700);
+		},5000);
+    });
+</script>
+</head>
+
+<body>
+<!--head-wrap-->
+<div class="head-wrap">
+	<div class="head">
+    	<h1><a href="index.html"><img src="images/logo.png" width="175" height="56" /></a></h1>
+        <p>欢迎来到杰迈科技网站！</p>
+    </div>
+</div>
+<!--top-nav-wrap-->
+<div class="top-nav-wrap">
+	<div class="top-nav">
+    	<ul>
+        	<li><a href="index.html" class="current">首页</a></li>
+            <li><a href="solution.html" target="_blank">解决方案</a></li>
+            <li><a href="project.html" target="_blank">项目</a></li>
+            <li><a href="list.html" target="_blank">新闻动态</a></li>
+            <li><a href="about.html" target="_blank">关于杰迈</a></li>
+        </ul>
+    </div>
+</div>
+<!--banner-wrap-->
+<div class="banner-wrap">
+	<div class="banner">
+    	<ul>
+        	<li class="current1"></li>
+            <li class="bg-2"></li>
+        </ul>
+    	<ol>
+        	<li class="current2"></li>
+            <li></li>
+        </ol>
+    </div>
+</div>
+<!--news-wrap-->
+<div class="news-wrap">
+	<div class="news">
+    	<span><img src="images/laba.png" width="15" height="15" /></span>
+        <p>2015年11月10日 - <a href="#">【企业新闻】首开万科城市之光项目</a></p>
+    </div>
+</div>
+<!--details-wrap-->
+<div class="details-wrap">
+	<div class="details">
+    	<ul>
+        	<li>
+            	<div class="top">
+                	<span><img src="images/index_icon1.png" width="72" height="72" /></span>
+                    <div class="top-r">
+                    	<h1>系统集成</h1>
+                        <p>System Integration</p>
+                    </div>
+                </div>
+                <p class="bottom">业务涵盖了为北京移动通信提供室内分布及宏站设计规划、地铁无线覆盖系统一体化代维（包含传输、电源、基站、分布系统）等，是一家集系统集成与无线规划为一体的通信服务企业。</p>
+                <button>
+                	详情
+                    <b></b>
+                </button>
+            </li>
+            <li>
+            	<div class="top">
+                	<span><img src="images/index_icon1.png" width="72" height="72" /></span>
+                    <div class="top-r">
+                    	<h1>软件产品</h1>
+                        <p>Software Product</p>
+                    </div>
+                </div>
+                <p class="bottom">为实现公司战略发展地图，公司在北京、沈阳、成都分别设立研发中心，专注于通信和轨道交通行业的软硬件开发和集成，已完成地铁网络优化、地铁检修系统等产品线的研发及解决方案，被广泛应用于北京地铁…</p>
+                <button>
+                	详情
+                    <b></b>
+                </button>
+            </li>
+            <li class="li-3">
+            	<div class="top">
+                	<span><img src="http://img1.imgtn.bdimg.com/it/u=3271374220,4009231303&fm=21&gp=0.jpg" width="72" height="72" /></span>
+                    <div class="top-r">
+                    	<h1>外包服务</h1>
+                        <p>Outsourcing Service</p>
+                    </div>
+                </div>
+                <p class="bottom">作为国内领先的软件服务外包领军企业和完整解决方案额提供商，在通信软件、系统集成、办公应用、手机客户端、商业软件等业务领域有着及其丰富的开发经验，提供包括面向电力行业解决方案、通信软件开发…</p>
+                <button>
+                	详情
+                    <b></b>
+                </button>
+            </li>
+        </ul>
+    </div>
+</div>
+<!--solution-wrap-->
+<div class="solution-wrap">
+	<div class="solution">
+    	<h1>解决方案<span>Solution</span></h1>
+        <ul>
+        	<li>
+            	<div>
+                	<h2>多系统协同维护的专业能力</h2>
+                    <p>由于地铁民用通信系统由不同的部分组成、包含了传输、无线、电源及接地系统、动力环境监控系统等各个部分，为了让我们的维护更加专业化，我们将抽调各个专业的精英来进行专业的维护，而不采用一人多项维护的模式，这种模式经过我们无数次的…</p>
+                </div>
+            </li>
+            <li class="two">
+            	<div>
+                	<h2>科学的流程式服务</h2>
+                    <p>对于维护类的工作，我公司多年的经验得出，科学的维护流程是维护工作的保证，所以，我公司对于每个类型的工作都有专业和科学的流程，即使是最日常的工作，我们也将每一步都进行了规范化，采用至少包含时间、地点、项目、描述、隐患五要素信息的科学流程，并由这些流程…</p>
+                </div>
+            </li>
+            <li class="three">
+            	<div>
+                	<h2>严格的责任制管理</h2>
+                    <p>将维护责任细分到每一个维护人员上是最有效的管理措施之一，对于每个班次的维护，根据人数的多少，公司都有严格的规范，当多人值班时包含了主要负责人、次要负责人以及当单人当班时的责任规范。这些有效的保证了所有人员皆有强烈的责任感…</p>
+                </div>
+            </li>
+            <li class="last">
+            	<div>
+                	<h2>员工知识库累计、本地化优势</h2>
+                    <p>为了让员工更快的提高自身水平，公司建立了强大的维护信息库和定期学习机制。我们的总公司驻地就在北京，可以有效调动各种资源支持维护工作。另外，我们特别注重员工的本地化，以保证维护队伍的稳定，从而更好保证维护质量…</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+<!--logo-wrap-->
+<div class="logo-wrap">
+	<div class="logo">
+    	<ul>
+        	<li><a href="#" class="logo-1"><img src="images/index_logo1.png" width="157" height="44" /></a></li>
+        	<li><a href="#" class="logo-2"><img src="images/index_logo2.png" width="180" height="47" /></a></li>
+            <li><a href="#" class="logo-3"><img src="images/index_logo3.png" width="174" height="55" /></a></li>
+            <li class="last"><a href="#" class="logo-4"><img src="images/index_logo4.png" width="83" height="75" /></a></li>
+        </ul>
+    </div>
+</div>
+<!--foot-1-wrap-->
+<div class="foot-1-wrap">
+	<div class="foot-1">
+    	<dl>
+        	<dt>关于杰迈</dt>
+            <dd><a href="#">公司介绍</a></dd>
+            <dd><a href="#">发展历程</a></dd>
+            <dd><a href="#">组织架构</a></dd>
+            <dd><a href="#">联系我们</a></dd>
+            <dd><a href="#">合作伙伴</a></dd>
+        </dl>
+        <dl>
+        	<dt>解决方案</dt>
+            <dd><a href="#">多系统协同维护的专业能力</a></dd>
+            <dd><a href="#">科学的流程式维护</a></dd>
+            <dd><a href="#">严格的责任制管理</a></dd>
+            <dd><a href="#">员工知识库的积累</a></dd>
+            <dd><a href="#">本地化优势</a></dd>
+        </dl>
+        <dl>
+        	<dt>企业项目</dt>
+            <dd><a href="#">系统集成</a></dd>
+            <dd><a href="#">软件产品</a></dd>
+            <dd><a href="#">地铁刹车</a></dd>
+            <dd><a href="#">外包服务</a></dd>
+        </dl>
+        <dl>
+        	<dt>技术支持</dt>
+            <dd><a href="#">电信运营和工程</a></dd>
+            <dd><a href="#">轨道交通</a></dd>
+            <dd><a href="#">全行业企业管理</a></dd>
+            <dd><a href="#">移动互联网</a></dd>
+        </dl>
+    </div>
+</div>
+<!--foot-2-wrap-->
+<div class="foot-2-wrap">
+	<div class="foot-2">
+    	<p>版权所有 © 北京杰迈利和科技有限公司 京ICP备14023260号-2 </p>
+    </div>
+</div>
+</body>
+</html>

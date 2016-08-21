@@ -19,7 +19,7 @@ from calc import views as calc_add
 
 urlpatterns = [
     url(r'^home/$',calc_add.home,name='home'),
-
+    url(r'^static/$',calc_add.static,name='static'),
     url(r'^add2/(\d+)/(\d+)/$', calc_add.old_add2_redirect),
     url(r'^new_add/(\d+)/(\d+)/$', calc_add.add2, name='add2'),
     # url(r'add2/(\d+)/(\d+)/',calc_add.add2,name='add2'),
