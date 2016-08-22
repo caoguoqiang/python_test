@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc36509d-bea0-4909-8f11-57f0baa45b38" name="Default" comment="">
+<<<<<<< Updated upstream
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/about-1-1.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/about-1-10.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/about-1-11.png" />
@@ -82,6 +83,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/calc/views.py" afterPath="$PROJECT_DIR$/calc/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/small_views/settings.py" afterPath="$PROJECT_DIR$/small_views/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/small_views/urls.py" afterPath="$PROJECT_DIR$/small_views/urls.py" />
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> Stashed changes
     </list>
     <ignored path="small_views.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -104,8 +109,13 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/small_views/urls.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="402">
               <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+=======
+            <state relative-caret-position="594">
+              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+>>>>>>> Stashed changes
               <folding>
                 <element signature="e#645#677#0" expanded="true" />
               </folding>
@@ -113,6 +123,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
       <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calc/admin.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -138,6 +149,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="69" column="14" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
+=======
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/small_views/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-462">
+              <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+>>>>>>> Stashed changes
               <folding />
             </state>
           </provider>
@@ -146,6 +164,7 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calc/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="308">
               <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding />
@@ -169,6 +188,91 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+=======
+            <state relative-caret-position="181">
+              <caret line="1299" column="0" selection-start-line="1299" selection-start-column="0" selection-end-line="1299" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#27803#27807#0" expanded="true" />
+                <element signature="e#27822#27828#0" expanded="true" />
+                <element signature="e#27834#27840#0" expanded="true" />
+                <element signature="e#27845#27851#0" expanded="true" />
+                <element signature="e#27866#27872#0" expanded="true" />
+                <element signature="e#27872#27876#0" expanded="true" />
+                <element signature="e#37889#37895#0" expanded="true" />
+                <element signature="e#37896#37902#0" expanded="true" />
+                <element signature="e#37919#37925#0" expanded="true" />
+                <element signature="e#37926#37932#0" expanded="true" />
+                <element signature="e#38990#38996#0" expanded="true" />
+                <element signature="e#39033#39039#0" expanded="true" />
+                <element signature="e#39661#39667#0" expanded="true" />
+                <element signature="e#39674#39680#0" expanded="true" />
+                <element signature="e#40079#40085#0" expanded="true" />
+                <element signature="e#40086#40092#0" expanded="true" />
+                <element signature="e#40112#40118#0" expanded="true" />
+                <element signature="e#40120#40126#0" expanded="true" />
+                <element signature="e#40505#40511#0" expanded="true" />
+                <element signature="e#40512#40518#0" expanded="true" />
+                <element signature="e#48560#48566#0" expanded="true" />
+                <element signature="e#48567#48573#0" expanded="true" />
+                <element signature="e#59252#59258#0" expanded="true" />
+                <element signature="e#59258#59264#0" expanded="true" />
+                <element signature="e#62220#62226#0" expanded="true" />
+                <element signature="e#62271#62277#0" expanded="true" />
+                <element signature="e#77041#77047#0" expanded="true" />
+                <element signature="e#77051#77057#0" expanded="true" />
+                <element signature="e#77058#77064#0" expanded="true" />
+                <element signature="e#77066#77072#0" expanded="true" />
+                <element signature="e#82909#82915#0" expanded="true" />
+                <element signature="e#82915#82921#0" expanded="true" />
+                <element signature="e#84439#84445#0" expanded="true" />
+                <element signature="e#84445#84451#0" expanded="true" />
+                <element signature="e#86698#86704#0" expanded="true" />
+                <element signature="e#86704#86710#0" expanded="true" />
+                <element signature="e#87238#87244#0" expanded="true" />
+                <element signature="e#87289#87295#0" expanded="true" />
+                <element signature="e#88621#88627#0" expanded="true" />
+                <element signature="e#88628#88634#0" expanded="true" />
+                <element signature="e#93574#93580#0" expanded="true" />
+                <element signature="e#93581#93587#0" expanded="true" />
+                <element signature="e#93928#93932#0" expanded="true" />
+                <element signature="e#93938#93942#0" expanded="true" />
+                <element signature="n#style#0;n#textarea#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#94008#94012#0" expanded="true" />
+                <element signature="e#94039#94043#0" expanded="true" />
+                <element signature="e#94719#94723#0" expanded="true" />
+                <element signature="e#94729#94733#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#1;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#3;n#div#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#4;n#div#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#3;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#textarea#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#textarea#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#145780#145786#0" expanded="true" />
+                <element signature="e#145791#145797#0" expanded="true" />
+                <element signature="e#145887#145893#1" expanded="true" />
+                <element signature="e#146036#146042#1" expanded="true" />
+                <element signature="e#146060#146066#0" expanded="true" />
+                <element signature="n#style#0;n#div#7;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#7;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#8;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#7;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#2;n#div#7;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#1;n#div#2;n#div#7;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#div#4;n#div#7;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -176,8 +280,13 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calc/views.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="468">
               <caret line="25" column="82" selection-start-line="25" selection-start-column="82" selection-end-line="25" selection-end-column="82" />
+=======
+            <state relative-caret-position="396">
+              <caret line="21" column="8" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="8" />
+>>>>>>> Stashed changes
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -221,9 +330,15 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< Updated upstream
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
+=======
+    <option name="x" value="282" />
+    <option name="y" value="25" />
+    <option name="width" value="1399" />
+>>>>>>> Stashed changes
     <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -278,6 +393,7 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="python_test" />
+<<<<<<< Updated upstream
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -285,6 +401,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+=======
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+>>>>>>> Stashed changes
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+<<<<<<< Updated upstream
+=======
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="python_test" />
@@ -299,12 +431,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+>>>>>>> Stashed changes
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< Updated upstream
     <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+=======
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+>>>>>>> Stashed changes
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
@@ -335,6 +472,7 @@
       <module name="small_views" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
       <option name="PARAMETERS" value="runserver 0.0.0.0:8000" />
+<<<<<<< Updated upstream
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
@@ -352,6 +490,8 @@
       <module name="small_views" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calc/views.py" />
       <option name="PARAMETERS" value="" />
+=======
+>>>>>>> Stashed changes
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
@@ -529,7 +669,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< Updated upstream
     <frame x="260" y="20" width="1400" height="1000" extended-state="0" />
+=======
+    <frame x="282" y="25" width="1399" height="1000" extended-state="0" />
+>>>>>>> Stashed changes
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -537,7 +681,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< Updated upstream
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896304" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32896304" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+>>>>>>> Stashed changes
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -567,8 +715,9 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/small_views/settings.py">
+    <entry file="file://$PROJECT_DIR$/small_views/urls.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="2772">
           <caret line="126" column="37" selection-start-line="126" selection-start-column="37" selection-end-line="126" selection-end-column="37" />
           <folding />
@@ -621,12 +770,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+=======
+        <state relative-caret-position="550">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+>>>>>>> Stashed changes
           <folding>
             <element signature="e#645#677#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/django/template/loader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -689,10 +843,97 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/calc/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#27803#27807#0" expanded="true" />
+            <element signature="e#27822#27828#0" expanded="true" />
+            <element signature="e#27834#27840#0" expanded="true" />
+            <element signature="e#27845#27851#0" expanded="true" />
+            <element signature="e#27866#27872#0" expanded="true" />
+            <element signature="e#27872#27876#0" expanded="true" />
+            <element signature="e#37889#37895#0" expanded="true" />
+            <element signature="e#37896#37902#0" expanded="true" />
+            <element signature="e#37919#37925#0" expanded="true" />
+            <element signature="e#37926#37932#0" expanded="true" />
+            <element signature="e#38990#38996#0" expanded="true" />
+            <element signature="e#39033#39039#0" expanded="true" />
+            <element signature="e#39661#39667#0" expanded="true" />
+            <element signature="e#39674#39680#0" expanded="true" />
+            <element signature="e#40079#40085#0" expanded="true" />
+            <element signature="e#40086#40092#0" expanded="true" />
+            <element signature="e#40112#40118#0" expanded="true" />
+            <element signature="e#40120#40126#0" expanded="true" />
+            <element signature="e#40505#40511#0" expanded="true" />
+            <element signature="e#40512#40518#0" expanded="true" />
+            <element signature="e#48560#48566#0" expanded="true" />
+            <element signature="e#48567#48573#0" expanded="true" />
+            <element signature="e#59252#59258#0" expanded="true" />
+            <element signature="e#59258#59264#0" expanded="true" />
+            <element signature="e#62220#62226#0" expanded="true" />
+            <element signature="e#62271#62277#0" expanded="true" />
+            <element signature="e#77041#77047#0" expanded="true" />
+            <element signature="e#77051#77057#0" expanded="true" />
+            <element signature="e#77058#77064#0" expanded="true" />
+            <element signature="e#77066#77072#0" expanded="true" />
+            <element signature="e#82909#82915#0" expanded="true" />
+            <element signature="e#82915#82921#0" expanded="true" />
+            <element signature="e#84439#84445#0" expanded="true" />
+            <element signature="e#84445#84451#0" expanded="true" />
+            <element signature="e#86698#86704#0" expanded="true" />
+            <element signature="e#86704#86710#0" expanded="true" />
+            <element signature="e#87238#87244#0" expanded="true" />
+            <element signature="e#87289#87295#0" expanded="true" />
+            <element signature="e#88621#88627#0" expanded="true" />
+            <element signature="e#88628#88634#0" expanded="true" />
+            <element signature="e#93574#93580#0" expanded="true" />
+            <element signature="e#93581#93587#0" expanded="true" />
+            <element signature="e#93928#93932#0" expanded="true" />
+            <element signature="e#93938#93942#0" expanded="true" />
+            <element signature="n#style#0;n#textarea#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#94008#94012#0" expanded="true" />
+            <element signature="e#94039#94043#0" expanded="true" />
+            <element signature="e#94719#94723#0" expanded="true" />
+            <element signature="e#94729#94733#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#1;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#3;n#div#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#4;n#div#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#3;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#145780#145786#0" expanded="true" />
+            <element signature="e#145791#145797#0" expanded="true" />
+            <element signature="e#145887#145893#1" expanded="true" />
+            <element signature="e#146036#146042#1" expanded="true" />
+            <element signature="e#146060#146066#0" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#7;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#8;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#7;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#2;n#div#7;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#1;n#div#2;n#div#7;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#4;n#div#7;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/small_views/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -732,11 +973,21 @@
         <state relative-caret-position="880">
           <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
           <folding />
+=======
+    <entry file="file://$PROJECT_DIR$/calc/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/calc/admin.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
@@ -754,14 +1005,23 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+=======
+        <state relative-caret-position="222">
+          <caret line="435" column="0" selection-start-line="435" selection-start-column="0" selection-end-line="435" selection-end-column="0" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/calc/tests.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+=======
+        <state relative-caret-position="286">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -777,9 +1037,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/small_views/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+=======
+        <state relative-caret-position="204">
+          <caret line="76" column="4" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -803,6 +1068,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/small_views/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -960,22 +1226,123 @@
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
             <element signature="e#645#677#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/calc/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="1299" column="0" selection-start-line="1299" selection-start-column="0" selection-end-line="1299" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#27803#27807#0" expanded="true" />
+            <element signature="e#27822#27828#0" expanded="true" />
+            <element signature="e#27834#27840#0" expanded="true" />
+            <element signature="e#27845#27851#0" expanded="true" />
+            <element signature="e#27866#27872#0" expanded="true" />
+            <element signature="e#27872#27876#0" expanded="true" />
+            <element signature="e#37889#37895#0" expanded="true" />
+            <element signature="e#37896#37902#0" expanded="true" />
+            <element signature="e#37919#37925#0" expanded="true" />
+            <element signature="e#37926#37932#0" expanded="true" />
+            <element signature="e#38990#38996#0" expanded="true" />
+            <element signature="e#39033#39039#0" expanded="true" />
+            <element signature="e#39661#39667#0" expanded="true" />
+            <element signature="e#39674#39680#0" expanded="true" />
+            <element signature="e#40079#40085#0" expanded="true" />
+            <element signature="e#40086#40092#0" expanded="true" />
+            <element signature="e#40112#40118#0" expanded="true" />
+            <element signature="e#40120#40126#0" expanded="true" />
+            <element signature="e#40505#40511#0" expanded="true" />
+            <element signature="e#40512#40518#0" expanded="true" />
+            <element signature="e#48560#48566#0" expanded="true" />
+            <element signature="e#48567#48573#0" expanded="true" />
+            <element signature="e#59252#59258#0" expanded="true" />
+            <element signature="e#59258#59264#0" expanded="true" />
+            <element signature="e#62220#62226#0" expanded="true" />
+            <element signature="e#62271#62277#0" expanded="true" />
+            <element signature="e#77041#77047#0" expanded="true" />
+            <element signature="e#77051#77057#0" expanded="true" />
+            <element signature="e#77058#77064#0" expanded="true" />
+            <element signature="e#77066#77072#0" expanded="true" />
+            <element signature="e#82909#82915#0" expanded="true" />
+            <element signature="e#82915#82921#0" expanded="true" />
+            <element signature="e#84439#84445#0" expanded="true" />
+            <element signature="e#84445#84451#0" expanded="true" />
+            <element signature="e#86698#86704#0" expanded="true" />
+            <element signature="e#86704#86710#0" expanded="true" />
+            <element signature="e#87238#87244#0" expanded="true" />
+            <element signature="e#87289#87295#0" expanded="true" />
+            <element signature="e#88621#88627#0" expanded="true" />
+            <element signature="e#88628#88634#0" expanded="true" />
+            <element signature="e#93574#93580#0" expanded="true" />
+            <element signature="e#93581#93587#0" expanded="true" />
+            <element signature="e#93928#93932#0" expanded="true" />
+            <element signature="e#93938#93942#0" expanded="true" />
+            <element signature="n#style#0;n#textarea#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#94008#94012#0" expanded="true" />
+            <element signature="e#94039#94043#0" expanded="true" />
+            <element signature="e#94719#94723#0" expanded="true" />
+            <element signature="e#94729#94733#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#1;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#3;n#div#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#4;n#div#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#3;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#145780#145786#0" expanded="true" />
+            <element signature="e#145791#145797#0" expanded="true" />
+            <element signature="e#145887#145893#1" expanded="true" />
+            <element signature="e#146036#146042#1" expanded="true" />
+            <element signature="e#146060#146066#0" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#7;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#8;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#7;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#2;n#div#7;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#1;n#div#2;n#div#7;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#4;n#div#7;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/small_views/context_processor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding />
+=======
+    <entry file="file://$PROJECT_DIR$/small_views/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="e#645#677#0" expanded="true" />
+          </folding>
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/small_views/settings.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="330">
           <caret line="69" column="14" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
+=======
+        <state relative-caret-position="-462">
+          <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
